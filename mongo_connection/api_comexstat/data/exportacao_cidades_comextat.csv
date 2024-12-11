@@ -1,0 +1,390 @@
+noMunMinsgUf,year,monthNumber,state,metricFOB,metricKG
+Guarulhos - SP,2024,09,São Paulo,103086688,111856076
+Guarulhos - SP,2024,05,São Paulo,97379792,98362487
+Guarulhos - SP,2024,08,São Paulo,56663536,59765065
+Guarulhos - SP,2024,10,São Paulo,26749219,32293979
+Guarulhos - SP,2024,01,São Paulo,18946758,17198150
+Guarulhos - SP,2024,03,São Paulo,17949888,17387959
+Guarulhos - SP,2024,07,São Paulo,17519024,20099229
+Brasília - DF,2024,09,Distrito Federal,9422785,8693724
+Fortaleza - CE,2024,09,Ceará,7446345,7909361
+Rio de Janeiro - RJ,2024,09,Rio de Janeiro,5906315,5568177
+Rio de Janeiro - RJ,2024,03,Rio de Janeiro,5604552,5430592
+Rio de Janeiro - RJ,2024,05,Rio de Janeiro,4624344,4533615
+Duque de Caxias - RJ,2024,10,Rio de Janeiro,4015135,9840670
+Campinas - SP,2024,08,São Paulo,3594731,3878029
+Brasília - DF,2024,08,Distrito Federal,3550567,3520915
+Campinas - SP,2024,03,São Paulo,3524577,3617966
+Rio de Janeiro - RJ,2024,10,Rio de Janeiro,3463634,3321732
+Campinas - SP,2024,09,São Paulo,3164231,3256508
+Campinas - SP,2024,05,São Paulo,3096175,3035808
+Rio de Janeiro - RJ,2024,08,Rio de Janeiro,2975453,3101338
+Brasília - DF,2024,10,Distrito Federal,2540892,2218945
+Rio de Janeiro - RJ,2024,07,Rio de Janeiro,2496059,2646183
+Duque de Caxias - RJ,2024,09,Rio de Janeiro,2226561,7105264
+Campinas - SP,2024,07,São Paulo,2222041,2401764
+Florianópolis - SC,2024,09,Santa Catarina,2191371,2195388
+Santos - SP,2024,01,São Paulo,2134624,3549034
+Santos - SP,2024,08,São Paulo,2077126,3503294
+Santos - SP,2024,06,São Paulo,1932921,3246364
+Campinas - SP,2024,10,São Paulo,1684075,1892267
+Lagoa Santa - MG,2024,08,Minas Gerais,1607955,1690109
+Santos - SP,2024,07,São Paulo,1584233,2497768
+Santos - SP,2024,04,São Paulo,1544304,2349206
+São José dos Pinhais - PR,2024,08,Paraná,1468388,1515228
+Santos - SP,2024,05,São Paulo,1437701,2248641
+Santos - SP,2024,10,São Paulo,1424988,2399836
+Duque de Caxias - RJ,2024,07,Rio de Janeiro,1297385,4372464
+Florianópolis - SC,2024,03,Santa Catarina,1227120,1123907
+Santos - SP,2024,02,São Paulo,1217627,1998244
+Manaus - AM,2024,09,Amazonas,1193871,1146354
+São José dos Pinhais - PR,2024,09,Paraná,1162472,1205084
+Florianópolis - SC,2024,08,Santa Catarina,1126105,1135624
+Santos - SP,2024,03,São Paulo,1079248,1699158
+Porto Alegre - RS,2024,05,Rio Grande do Sul,1028984,991727
+Campinas - SP,2024,01,São Paulo,1025156,895669
+Santos - SP,2024,09,São Paulo,943030,1428388
+Florianópolis - SC,2024,10,Santa Catarina,910590,954729
+Rio de Janeiro - RJ,2024,01,Rio de Janeiro,821266,737638
+Duque de Caxias - RJ,2024,08,Rio de Janeiro,730255,2638295
+São José dos Pinhais - PR,2024,03,Paraná,717703,682236
+Lagoa Santa - MG,2024,09,Minas Gerais,706097,736574
+São José dos Pinhais - PR,2024,07,Paraná,701024,758433
+Manaus - AM,2024,08,Amazonas,681632,644702
+Lagoa Santa - MG,2024,10,Minas Gerais,679652,752110
+Porto Alegre - RS,2024,03,Rio Grande do Sul,653346,617604
+Guarulhos - SP,2024,06,São Paulo,618870,631681
+Porto Alegre - RS,2024,07,Rio Grande do Sul,544323,541339
+Florianópolis - SC,2024,07,Santa Catarina,525620,550066
+Florianópolis - SC,2024,05,Santa Catarina,488028,458874
+São José dos Pinhais - PR,2024,10,Paraná,486121,540622
+Salvador - BA,2024,09,Bahia,475925,511739
+Fortaleza - CE,2024,03,Ceará,455219,649621
+Recife - PE,2024,09,Pernambuco,409516,453516
+São José dos Pinhais - PR,2024,05,Paraná,405499,383592
+Duque de Caxias - RJ,2024,02,Rio de Janeiro,400799,549955
+Araucária - PR,2024,07,Paraná,383702,550122
+São Gonçalo do Amarante - RN,2024,09,Rio Grande do Norte,371433,386846
+Rio de Janeiro - RJ,2024,06,Rio de Janeiro,340460,316804
+Florianópolis - SC,2024,01,Santa Catarina,327982,295457
+Campinas - SP,2024,06,São Paulo,289458,302598
+Rio Largo - AL,2024,09,Alagoas,266476,281637
+Manaus - AM,2024,05,Amazonas,245033,226456
+Fortaleza - CE,2024,08,Ceará,237901,247388
+Belém - PA,2024,09,Pará,233531,237802
+Manaus - AM,2024,07,Amazonas,224948,204875
+Manaus - AM,2024,03,Amazonas,222830,204280
+Fortaleza - CE,2024,10,Ceará,219814,246993
+Manaus - AM,2024,10,Amazonas,204551,192502
+Brasília - DF,2024,07,Distrito Federal,182899,191889
+Rio Largo - AL,2024,10,Alagoas,164037,169379
+Rio de Janeiro - RJ,2024,04,Rio de Janeiro,156896,80248
+Belém - PA,2024,10,Pará,141633,137828
+Recife - PE,2024,10,Pernambuco,120448,149742
+Salvador - BA,2024,08,Bahia,117685,101248
+Manaus - AM,2024,01,Amazonas,110751,94871
+Recife - PE,2024,08,Pernambuco,107085,99171
+Manaus - AM,2024,06,Amazonas,89546,87720
+Porto Alegre - RS,2024,01,Rio Grande do Sul,81169,71157
+Florianópolis - SC,2024,06,Santa Catarina,80850,79521
+Lagoa Santa - MG,2024,06,Minas Gerais,69958,72437
+Porto Alegre - RS,2024,09,Rio Grande do Sul,64100,65679
+Sumaré - SP,2024,05,São Paulo,59559,12556
+Porto Alegre - RS,2024,08,Rio Grande do Sul,54605,59108
+Belém - PA,2024,08,Pará,50162,49311
+Rio Largo - AL,2024,08,Alagoas,45517,39601
+São José dos Pinhais - PR,2024,01,Paraná,43862,38913
+Belém - PA,2024,04,Pará,43724,33005
+Porto Alegre - RS,2024,06,Rio Grande do Sul,43260,43479
+Vitória - ES,2024,08,Espírito Santo,41487,42400
+Foz do Iguaçu - PR,2024,10,Paraná,41388,35491
+Salvador - BA,2024,10,Bahia,39998,43784
+Guarulhos - SP,2024,04,São Paulo,39624,36882
+Lagoa Santa - MG,2024,07,Minas Gerais,36193,37961
+São José dos Pinhais - PR,2024,06,Paraná,33708,34257
+Brasília - DF,2024,06,Distrito Federal,31470,26967
+Foz do Iguaçu - PR,2024,06,Paraná,28318,23371
+São Gonçalo do Amarante - RN,2024,08,Rio Grande do Norte,26630,26308
+Vila Velha - ES,2024,05,Espírito Santo,24812,811
+Rio Grande - RS,2024,02,Rio Grande do Sul,21982,5243
+Macaé - RJ,2024,06,Rio de Janeiro,19522,7644
+Macaé - RJ,2024,07,Rio de Janeiro,17118,4996
+Brasília - DF,2024,01,Distrito Federal,16680,12143
+Foz do Iguaçu - PR,2024,01,Paraná,16481,11469
+Rio de Janeiro - RJ,2024,02,Rio de Janeiro,15999,12318
+Boa Vista - RR,2024,07,Roraima,15464,11479
+Guarulhos - SP,2024,02,São Paulo,14699,12648
+Foz do Iguaçu - PR,2024,09,Paraná,13360,12568
+Manaus - AM,2024,04,Amazonas,12786,9944
+Vitória - ES,2024,10,Espírito Santo,12316,5377
+Vitória - ES,2024,09,Espírito Santo,11591,6308
+Lagoa Santa - MG,2024,05,Minas Gerais,10666,11332
+Macaé - RJ,2024,08,Rio de Janeiro,10488,3185
+Vitória - ES,2024,06,Espírito Santo,9889,3445
+Recife - PE,2024,07,Pernambuco,8573,7733
+Porto Alegre - RS,2024,10,Rio Grande do Sul,8453,8700
+Duque de Caxias - RJ,2024,05,Rio de Janeiro,8085,2359
+Foz do Iguaçu - PR,2024,07,Paraná,7989,6243
+Fortaleza - CE,2024,07,Ceará,7966,8312
+Boa Vista - RR,2024,08,Roraima,7832,5210
+São José dos Pinhais - PR,2024,04,Paraná,7282,6467
+Brasília - DF,2024,02,Distrito Federal,6611,5569
+Foz do Iguaçu - PR,2024,08,Paraná,6387,6317
+Porto Alegre - RS,2024,04,Rio Grande do Sul,6209,5392
+Belém - PA,2024,01,Pará,5920,4779
+Campo Grande - MS,2024,10,Mato Grosso do Sul,5847,6067
+Recife - PE,2024,04,Pernambuco,5777,5182
+Brasília - DF,2024,05,Distrito Federal,5278,5126
+Rio Grande - RS,2024,07,Rio Grande do Sul,5245,912
+São Gonçalo do Amarante - RN,2024,06,Rio Grande do Norte,4981,3704
+Porto Alegre - RS,2024,02,Rio Grande do Sul,4836,3273
+Belém - PA,2024,07,Pará,3963,3411
+Florianópolis - SC,2024,02,Santa Catarina,3719,2623
+Belém - PA,2024,02,Pará,3682,2371
+Campinas - SP,2024,02,São Paulo,3602,2815
+Manaus - AM,2024,02,Amazonas,3602,2408
+Vitória - ES,2024,07,Espírito Santo,3428,373
+São Gonçalo do Amarante - RN,2024,02,Rio Grande do Norte,3320,2455
+Boa Vista - RR,2024,02,Roraima,3174,2022
+Macapá - AP,2024,03,Amapá,2672,1811
+Florianópolis - SC,2024,04,Santa Catarina,2551,1848
+Campo Grande - MS,2024,09,Mato Grosso do Sul,2016,2411
+Salvador - BA,2024,06,Bahia,1828,43
+Foz do Iguaçu - PR,2024,03,Paraná,1537,1209
+Brasília - DF,2024,04,Distrito Federal,1181,1065
+Foz do Iguaçu - PR,2024,04,Paraná,1181,829
+Macaé - RJ,2024,09,Rio de Janeiro,34,9
+Guarulhos - SP,2023,10,São Paulo,73115969,68661435
+Guarulhos - SP,2023,12,São Paulo,71937610,61320009
+Guarulhos - SP,2023,07,São Paulo,45487339,46873153
+Guarulhos - SP,2023,02,São Paulo,43630945,34903803
+Guarulhos - SP,2023,06,São Paulo,30406504,26298388
+Guarulhos - SP,2023,03,São Paulo,16809544,13186001
+Guarulhos - SP,2023,01,São Paulo,16334650,12721853
+Guarulhos - SP,2023,05,São Paulo,10868304,9744331
+Brasília - DF,2023,12,Distrito Federal,8779493,5613118
+Guarulhos - SP,2023,04,São Paulo,7611557,6360311
+Campinas - SP,2023,12,São Paulo,6183136,5937650
+Campinas - SP,2023,01,São Paulo,5636451,4387642
+Rio de Janeiro - RJ,2023,12,Rio de Janeiro,5242614,3576168
+Campinas - SP,2023,02,São Paulo,4173767,3376463
+Campinas - SP,2023,07,São Paulo,3923905,4034428
+Brasília - DF,2023,02,Distrito Federal,3788875,2333575
+Rio de Janeiro - RJ,2023,02,Rio de Janeiro,3472328,2598731
+Campinas - SP,2023,10,São Paulo,3177051,2836093
+Santos - SP,2023,12,São Paulo,1849386,3048713
+Brasília - DF,2023,10,Distrito Federal,1797981,1214991
+Campinas - SP,2023,05,São Paulo,1711316,1496881
+Rio de Janeiro - RJ,2023,10,Rio de Janeiro,1622689,1555340
+Campinas - SP,2023,06,São Paulo,1469296,1261319
+Campinas - SP,2023,03,São Paulo,1459738,1166996
+Rio de Janeiro - RJ,2023,07,Rio de Janeiro,1389433,1431644
+Rio de Janeiro - RJ,2023,06,Rio de Janeiro,1294102,1091856
+Rio de Janeiro - RJ,2023,03,Rio de Janeiro,1130578,804489
+Brasília - DF,2023,03,Distrito Federal,1000756,648132
+Florianópolis - SC,2023,02,Santa Catarina,925231,715394
+Florianópolis - SC,2023,12,Santa Catarina,755808,573988
+Manaus - AM,2023,12,Amazonas,743406,651946
+Fortaleza - CE,2023,12,Ceará,632364,537358
+Belém - PA,2023,12,Pará,528781,436382
+Santos - SP,2023,11,São Paulo,501924,749141
+Brasília - DF,2023,07,Distrito Federal,477300,470296
+Manaus - AM,2023,07,Amazonas,456847,418029
+Manaus - AM,2023,02,Amazonas,408400,310286
+Porto Alegre - RS,2023,10,Rio Grande do Sul,394708,373170
+Porto Alegre - RS,2023,07,Rio Grande do Sul,370422,362817
+Porto Alegre - RS,2023,02,Rio Grande do Sul,348173,276255
+São José dos Pinhais - PR,2023,02,Paraná,340585,270011
+São Gonçalo do Amarante - RN,2023,12,Rio Grande do Norte,291966,252492
+Rio de Janeiro - RJ,2023,04,Rio de Janeiro,282715,232897
+Recife - PE,2023,12,Pernambuco,276006,252046
+Duque de Caxias - RJ,2023,03,Rio de Janeiro,263635,410008
+Porto Alegre - RS,2023,06,Rio Grande do Sul,262444,215238
+Manaus - AM,2023,06,Amazonas,248272,193648
+Manaus - AM,2023,03,Amazonas,233849,178208
+Manaus - AM,2023,10,Amazonas,226139,181615
+Brasília - DF,2023,06,Distrito Federal,201933,160089
+Salvador - BA,2023,12,Bahia,201495,169916
+São José dos Pinhais - PR,2023,07,Paraná,196409,206725
+Guarulhos - SP,2023,08,São Paulo,180157,160370
+São José dos Pinhais - PR,2023,10,Paraná,178918,165800
+Lagoa Santa - MG,2023,05,Minas Gerais,170308,115333
+Campinas - SP,2023,04,São Paulo,169816,142631
+Lagoa Santa - MG,2023,12,Minas Gerais,162514,141574
+Rio de Janeiro - RJ,2023,05,Rio de Janeiro,161337,136763
+Florianópolis - SC,2023,10,Santa Catarina,160524,113993
+Manaus - AM,2023,05,Amazonas,150152,119688
+São José dos Pinhais - PR,2023,12,Paraná,139367,128127
+São José dos Pinhais - PR,2023,05,Paraná,137048,120239
+Rio de Janeiro - RJ,2023,01,Rio de Janeiro,130824,93972
+Porto Alegre - RS,2023,01,Rio Grande do Sul,119734,89468
+Florianópolis - SC,2023,03,Santa Catarina,115079,90879
+São José dos Pinhais - PR,2023,06,Paraná,112857,95615
+Belém - PA,2023,03,Pará,109321,86477
+Rio Largo - AL,2023,12,Alagoas,101003,86766
+São José dos Pinhais - PR,2023,03,Paraná,95806,76636
+Fortaleza - CE,2023,02,Ceará,92006,72211
+Fortaleza - CE,2023,03,Ceará,89861,75941
+Belém - PA,2023,01,Pará,87726,68047
+Belém - PA,2023,02,Pará,79674,62448
+Manaus - AM,2023,01,Amazonas,79640,56584
+Lagoa Santa - MG,2023,03,Minas Gerais,75196,60669
+Lagoa Santa - MG,2023,02,Minas Gerais,73139,55788
+Recife - PE,2023,07,Pernambuco,71151,56814
+Salvador - BA,2023,03,Bahia,57270,46180
+Guarulhos - SP,2023,11,São Paulo,56765,47447
+Recife - PE,2023,01,Pernambuco,55714,44279
+Lagoa Santa - MG,2023,06,Minas Gerais,53180,42919
+Porto Alegre - RS,2023,04,Rio Grande do Sul,50974,41609
+Lagoa Santa - MG,2023,09,Minas Gerais,48315,42172
+São Gonçalo do Amarante - RN,2023,02,Rio Grande do Norte,44697,34926
+São Gonçalo do Amarante - RN,2023,03,Rio Grande do Norte,44038,35981
+Florianópolis - SC,2023,07,Santa Catarina,42527,41713
+Recife - PE,2023,03,Pernambuco,41698,35087
+Lagoa Santa - MG,2023,10,Minas Gerais,39879,32186
+Florianópolis - SC,2023,06,Santa Catarina,38952,29581
+Rio Largo - AL,2023,03,Alagoas,37605,26030
+Brasília - DF,2023,05,Distrito Federal,36182,24147
+Rio de Janeiro - RJ,2023,11,Rio de Janeiro,33922,25736
+Brasília - DF,2023,08,Distrito Federal,32607,30160
+Lagoa Santa - MG,2023,07,Minas Gerais,24594,23124
+Recife - PE,2023,02,Pernambuco,23683,20026
+Salvador - BA,2023,02,Bahia,22891,20111
+Fortaleza - CE,2023,05,Ceará,21868,14479
+Manaus - AM,2023,04,Amazonas,19703,12593
+Foz do Iguaçu - PR,2023,01,Paraná,19654,12240
+Florianópolis - SC,2023,04,Santa Catarina,19247,15521
+Fortaleza - CE,2023,10,Ceará,18908,14010
+Recife - PE,2023,05,Pernambuco,18774,15375
+Foz do Iguaçu - PR,2023,06,Paraná,18549,13894
+Salvador - BA,2023,10,Bahia,18464,13884
+Porto Seguro - BA,2023,06,Bahia,17740,15543
+Belém - PA,2023,06,Pará,16919,12090
+Rio de Janeiro - RJ,2023,08,Rio de Janeiro,16222,13885
+Belém - PA,2023,07,Pará,16188,15487
+Brasília - DF,2023,04,Distrito Federal,16139,12334
+Boa Vista - RR,2023,06,Roraima,15878,10078
+Campo Grande - MS,2023,06,Mato Grosso do Sul,15750,12351
+São Gonçalo do Amarante - RN,2023,10,Rio Grande do Norte,14979,13248
+Boa Vista - RR,2023,03,Roraima,14929,8622
+São José dos Pinhais - PR,2023,04,Paraná,14194,11745
+Manaus - AM,2023,08,Amazonas,14130,9173
+Porto Alegre - RS,2023,05,Rio Grande do Sul,12468,10733
+Boa Vista - RR,2023,12,Roraima,11432,6743
+São Luís - MA,2023,08,Maranhão,10537,3043
+Porto Alegre - RS,2023,12,Rio Grande do Sul,9576,8035
+Boa Vista - RR,2023,07,Roraima,9100,5546
+São Sebastião - SP,2023,09,São Paulo,8786,4633
+Recife - PE,2023,11,Pernambuco,8609,6586
+Maceió - AL,2023,03,Alagoas,7619,2323
+Belém - PA,2023,05,Pará,7326,4241
+São Gonçalo do Amarante - RN,2023,06,Rio Grande do Norte,6869,4765
+Foz do Iguaçu - PR,2023,02,Paraná,6814,4479
+Fortaleza - CE,2023,11,Ceará,6587,4781
+Porto Alegre - RS,2023,03,Rio Grande do Sul,6495,5061
+Recife - PE,2023,10,Pernambuco,6456,5360
+São José dos Pinhais - PR,2023,01,Paraná,6179,4562
+Guarulhos - SP,2023,09,São Paulo,5940,5396
+Foz do Iguaçu - PR,2023,12,Paraná,5741,4010
+Lagoa Santa - MG,2023,08,Minas Gerais,5567,5400
+Foz do Iguaçu - PR,2023,11,Paraná,5447,3595
+Recife - PE,2023,04,Pernambuco,5262,3423
+Florianópolis - SC,2023,01,Santa Catarina,5202,3310
+Boa Vista - RR,2023,11,Roraima,4886,2541
+Belém - PA,2023,09,Pará,4786,4833
+Foz do Iguaçu - PR,2023,10,Paraná,4744,3456
+Manaus - AM,2023,09,Amazonas,4568,3709
+Maceió - AL,2023,01,Alagoas,3819,3807
+Foz do Iguaçu - PR,2023,03,Paraná,3580,2213
+Boa Vista - RR,2023,05,Roraima,2943,1866
+Foz do Iguaçu - PR,2023,07,Paraná,2904,2299
+Manaus - AM,2023,11,Amazonas,2741,2485
+São José dos Pinhais - PR,2023,11,Paraná,2502,1913
+Belém - PA,2023,08,Pará,2167,1710
+Santos - SP,2023,03,São Paulo,2091,146
+Porto Alegre - RS,2023,08,Rio Grande do Sul,1865,1347
+Porto Alegre - RS,2023,11,Rio Grande do Sul,1700,1318
+Rio de Janeiro - RJ,2023,09,Rio de Janeiro,1606,1651
+Florianópolis - SC,2023,08,Santa Catarina,1397,896
+Boa Vista - RR,2023,08,Roraima,689,479
+Guarulhos - SP,2022,12,São Paulo,52730266,39782576
+Guarulhos - SP,2022,11,São Paulo,35925730,26937699
+Campinas - SP,2022,12,São Paulo,28623992,20991160
+Guarulhos - SP,2022,10,São Paulo,13060756,9899172
+Campinas - SP,2022,10,São Paulo,5017152,3854072
+Rio de Janeiro - RJ,2022,12,Rio de Janeiro,1491650,1110776
+Porto Alegre - RS,2022,12,Rio Grande do Sul,1069012,796363
+Santos - SP,2022,08,São Paulo,975272,998231
+Duque de Caxias - RJ,2022,10,Rio de Janeiro,781334,680012
+Manaus - AM,2022,12,Amazonas,688457,522784
+Rio de Janeiro - RJ,2022,10,Rio de Janeiro,557293,421397
+Rio de Janeiro - RJ,2022,11,Rio de Janeiro,518046,378555
+Santos - SP,2022,01,São Paulo,398557,651138
+Porto Alegre - RS,2022,11,Rio Grande do Sul,348239,252251
+Manaus - AM,2022,10,Amazonas,318414,243200
+São José dos Pinhais - PR,2022,12,Paraná,308444,228116
+São José dos Pinhais - PR,2022,10,Paraná,243013,184583
+Recife - PE,2022,12,Pernambuco,117589,91030
+Florianópolis - SC,2022,12,Santa Catarina,93895,67475
+Lagoa Santa - MG,2022,12,Minas Gerais,93585,69418
+Belém - PA,2022,12,Pará,87528,66958
+Paranaguá - PR,2022,04,Paraná,60891,58055
+Salvador - BA,2022,12,Bahia,54648,43454
+Lagoa Santa - MG,2022,10,Minas Gerais,50038,38862
+Florianópolis - SC,2022,10,Santa Catarina,44285,33568
+Paranaguá - PR,2022,02,Paraná,42538,38741
+Guarulhos - SP,2022,08,São Paulo,38706,12462
+Paranaguá - PR,2022,03,Paraná,38316,24866
+Paranaguá - PR,2022,01,Paraná,28985,30300
+Maceió - AL,2022,03,Alagoas,27708,8446
+Fortaleza - CE,2022,12,Ceará,21654,17379
+Manaus - AM,2022,09,Amazonas,18326,13188
+Belém - PA,2022,11,Pará,18069,13825
+Brasília - DF,2022,12,Distrito Federal,16911,12598
+Santos - SP,2022,12,São Paulo,7986,800
+Santos - SP,2022,09,São Paulo,6617,450
+Franca - SP,2022,07,São Paulo,6203,204
+São Gonçalo do Amarante - RN,2022,12,Rio Grande do Norte,4109,3229
+Recife - PE,2022,10,Pernambuco,2372,1725
+Raposa - MA,2022,05,Maranhão,1755,149
+Duque de Caxias - RJ,2021,11,Rio de Janeiro,533081,820213
+Duque de Caxias - RJ,2021,05,Rio de Janeiro,500063,800101
+Rio Grande - RS,2021,03,Rio Grande do Sul,218831,400056
+São Francisco do Conde - BA,2021,01,Bahia,171402,350003
+São Francisco do Conde - BA,2021,11,Bahia,99165,150022
+Duque de Caxias - RJ,2021,10,Rio de Janeiro,55109,79752
+Macaé - RJ,2021,12,Rio de Janeiro,20708,7298
+Paranaguá - PR,2021,12,Paraná,16954,12536
+Queimados - RJ,2021,10,Rio de Janeiro,13935,2372
+Maceió - AL,2021,08,Alagoas,8195,3721
+Paranaguá - PR,2021,11,Paraná,7811,8919
+Rio Grande - RS,2021,11,Rio Grande do Sul,7403,3904
+Paranaguá - PR,2021,10,Paraná,5209,3284
+Maceió - AL,2021,03,Alagoas,1897,1645
+Santos - SP,2021,06,São Paulo,1845,1
+Rio de Janeiro - RJ,2021,12,Rio de Janeiro,1682,564
+São José dos Campos - SP,2021,12,São Paulo,762,124
+Santos - SP,2021,05,São Paulo,734,30
+Maceió - AL,2021,11,Alagoas,674,416
+Rio Grande - RS,2021,08,Rio Grande do Sul,597,9
+Maceió - AL,2021,04,Alagoas,386,1
+Maceió - AL,2021,09,Alagoas,156,20
+Santos - SP,2020,06,São Paulo,1043377,4297980
+Santos - SP,2020,08,São Paulo,867864,2707306
+Santos - SP,2020,07,São Paulo,784223,2703406
+Santos - SP,2020,04,São Paulo,507871,1617973
+Santos - SP,2020,09,São Paulo,479229,1399685
+Duque de Caxias - RJ,2020,08,Rio de Janeiro,429290,1257023
+Santos - SP,2020,01,São Paulo,428391,699986
+Santos - SP,2020,02,São Paulo,408880,650047
+Duque de Caxias - RJ,2020,09,Rio de Janeiro,343044,924045
+Duque de Caxias - RJ,2020,02,Rio de Janeiro,308296,469963
+Duque de Caxias - RJ,2020,10,Rio de Janeiro,293948,829731
+Santos - SP,2020,03,São Paulo,291210,700025
+Santos - SP,2020,11,São Paulo,180835,500927
+Duque de Caxias - RJ,2020,04,Rio de Janeiro,129603,396409
+Vitória - ES,2020,02,Espírito Santo,84117,124696
+Fortaleza - CE,2020,03,Ceará,55146,85498
+Rio de Janeiro - RJ,2020,11,Rio de Janeiro,9465,529
+Rio de Janeiro - RJ,2020,12,Rio de Janeiro,9196,119
+Maceió - AL,2020,06,Alagoas,172,374
