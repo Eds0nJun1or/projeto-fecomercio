@@ -1,4 +1,3 @@
-```markdown
 # Projeto Fecomércio: Hub do Comércio
 
 ## Introdução
@@ -211,4 +210,4 @@ README.md
 
 ## Licença
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
-```
+
